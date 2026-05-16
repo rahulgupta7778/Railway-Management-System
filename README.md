@@ -106,7 +106,11 @@ gcc railway_management_system.c -o railway
 * Progress Bar Animation
 * Interactive Console Interface
 * Error Handling & Recovery
-
+  
+## Required Files
+Make sure these files are present in the same directory before running:
+- admin_record.txt
+- train_record.txt
 ---
 # Developed By
 
